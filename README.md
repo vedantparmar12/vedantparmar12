@@ -10,7 +10,7 @@
 
 👨‍💻 My work often involves exploring new AI models and deploying intelligent solutions.
 
-📫 How to reach me: [Your Email Here] (e.g., your.email@example.com)
+📫 How to reach me: vedantparmarsingh@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

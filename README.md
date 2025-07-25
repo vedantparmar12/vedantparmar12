@@ -50,7 +50,7 @@
   <a href="https://github.com/vedantparmar12">
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60">
   </a>
-  <a href="mailto:vedantparmarsingh@gmail.com">
+  <a href="https://solo.to/vedantparmar">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60">
   </a>
 </div>
